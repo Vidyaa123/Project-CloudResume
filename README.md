@@ -1,5 +1,5 @@
 # CloudResume
-## AWS Cloud Resume Challenge 
+## [AWS Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 1. Create a AWS Free account
 2. Create IAM user and assign least privileged permissions
